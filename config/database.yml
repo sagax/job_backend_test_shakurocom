@@ -1,0 +1,7 @@
+host: localhost
+adapter: sqlite3
+encoding: utf-8
+database: db/development.sqlite3
+migrate: db/migrate
+pool: 200
+timeout: 5
